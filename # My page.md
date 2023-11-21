@@ -26,3 +26,14 @@ This will be my home page
     - [ ] 3.3.3) checkout the branch main
     - [ ] 3.3.4) Merge the change from style
  - [ ] 4. Remote Repository
+
+ ## Second list 
+  - [ ] 1. Local Repository 
+  - [ ] 1.1) Create your first commit with this Readme
+  - [ ] 1.2) Amend the previous commit to check the first and second box.
+- [ ] 2. Linear History 
+  - [ ] 2.1) First Commits: index.html
+  - [ ] 2.1.1) Create a bare index.html (just the basic structure with no content)
+  - [ ] 2.1.2) Add and commit some elements about you (Your name, a short bio)
+  - [ ] 2.1.3) Add and commit some more elements about you (Formation, Experience ... )
+- [ ] 3. Nonlinear History 
